@@ -1,3 +1,3 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Dusk (fork of Dawn)
-- 🌱 I’m currently learning Javascript, C, Chinese
+- 🔭 I’m currently working on a Simple Python Discord Bot.
+- 🌱 I’m currently learning Javascript, Chinese, C
