@@ -1,6 +1,4 @@
-### Hey there! 👋
-
-I'm Kierstro, your average gamer and tech lover who like to mess around with computers. ✨
-
-- 🔭 I’m currently working on a Simple Python Discord Bot ([Kierstro/komi](https://github.com/Kierstro/komi))
-- 🌱 I’m currently working towards learning Python, Rust, Chinese and C
+## Kierstro
+* I’m currently working on a Simple Python Discord Bot ([Kierstro/komi](https://github.com/Kierstro/komi))
+* I’m currently learning `Rust` and `C`. Mostly use it for writing random stuff for my own personal use.
+* Also picked up `Python` as a 2nd language for more lighter/web related stuff and hobby projects.
